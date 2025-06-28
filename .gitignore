@@ -1,0 +1,31 @@
+Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Compiled Java class files
+bin/
+*.class
+
+# Maven/Gradle build output
+target/
+build/
+
+# Dependency directories
+lib/
+libs/
+
+# IDE-specific files
+*.iml
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
